@@ -37,7 +37,7 @@ It is important to note that the case you are about to build does not need te be
 
 ## Design Specifications
 
-You can find the design here: [Sketch Design](https://www.sketch.com/s/b8e31a79-9aa0-4c2b-8670-ad3792f01d86).
+You can find the design here: [Figma Design](https://www.figma.com/design/w5SUZpNGiXOKgJZ3FdAyhh/WP-Brothers---Development-case?node-id=2003-18423&m=dev).
 
 To view the technical specifications of the design, open a specific page design (for instance: Homepage), and click the button "Inspect" in the top right corner.
 
