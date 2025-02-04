@@ -14,7 +14,7 @@ Good luck!
 
 #### General
 
-- Do not use any plugins
+- You can use the free version of ACF to make blocks and content editable. <a href="https://github.com/wordpress-premium/advanced-custom-fields-pro">Here you can download the plugin.</a> 
 - Build upon the existing file structure and files.
 - Try to write your own code as much as possible.
 - We encourage writing component based code! This means reusing similar code, instead of writing the same functionality multiple times.
